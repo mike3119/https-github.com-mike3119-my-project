@@ -35,3 +35,53 @@ It involves collecting molecular datasets from **ChEMBL**, cleaning and curating
 1. Clone this repository:  
    ```bash
    git clone https://github.com/mike3119/https-github.com-mike3119-my-project.git
+
+
+2. Navigate into the folder:
+
+cd https-github.com-mike3119-my-project
+
+3. Install dependencies:
+
+pip install rdkit pandas matplotlib
+
+4. Open the notebooks:
+
+jupyter notebook
+
+
+---
+
+📊 Example Outputs
+
+Some of the results you can expect:
+
+Distribution plots of molecular weight, LogP, and other drug-likeness properties
+
+Filtering of compounds based on Lipinski’s Rule of Five
+
+Data tables of curated compounds for further analysis
+
+---
+
+🎯 Project Goals
+
+Learn and apply bioinformatics/cheminformatics techniques for drug discovery.
+
+Explore the power of ChEMBL as a molecular dataset resource.
+
+Practice molecular analysis with RDKit in Python.
+
+Build a foundation for advanced drug design projects.
+
+---
+
+👤 Author
+
+Michael Hemen Akosu
+
+hemenmonterakosu@gmail.com B.Sc. Chemistry
+
+PGD in Drug Analysis, Pharmaceutical Chemistry (University of Ibadan)
+
+Open to internships, collaborations, and learning opportunities in bioinformatics and cheminformatics.
